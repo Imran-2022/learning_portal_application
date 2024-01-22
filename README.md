@@ -1,5 +1,14 @@
 ## Project: learning_portal_application
+#### Submitted By
+- Name : Md Imranul Haque
+- ID : 2002043
+- L-3, S-I
+- Department: CSE
 
+#### Submitted TO
+- Name: Pankaj Bhowmik(sir)
+- Lecturer: Department of CSE, HSTU
+  <hr/>
 #### Applied SDLC model (Software Development Life Cycle model):
 
 For the project "**Learning Portal Application**," a suitable and simple Software Development Life Cycle (SDLC) model could be the Iterative Model. The Iterative Model involves repeating the development and testing phases in small increments, allowing for flexibility and adjustments based on feedback throughout the project.
